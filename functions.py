@@ -24,3 +24,27 @@
 # num=int(input())
 # print(prime(num))
 
+# def welcome():
+#     print("welcome to python programming")
+# welcome()
+
+# def add(a,b):
+#     return a+b
+# result=add(10,20)
+# print(result)
+
+# def calculate(n):
+#     return n*n,n*n*n
+# square,cube=calculate(3)
+# print("square:",square)
+# print("cube:",cube)
+
+# for n in range(2,21):
+#     prime=True
+#     for i in range(2,n):
+#         if n%i==0:
+#            prime=False
+#            break
+#     if prime:
+#         print(n,end="")
+
